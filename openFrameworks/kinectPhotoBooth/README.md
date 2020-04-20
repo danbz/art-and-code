@@ -1,6 +1,8 @@
 # art-and-code
 demo code from the youtube video tutorials and how-tos
 
+Building a 3D photo booth with microsft XBox Kinect sensor
+
 using openFrameworks C++ creative coding framework
  http://openframeworks.cc
 
@@ -8,6 +10,7 @@ http://youtube.com/danbuzzo
 
 http://twitter.com/danb_zzo
 
+### kinectPhotoBooth
  * using kinect depth sensors to capture RGB & depth data
  * constructing point clouds from depth data
  * colouring point clouds with RGB data and with HSB colour gradients
@@ -16,7 +19,14 @@ http://twitter.com/danb_zzo
  * adding sounds and onscreen countdown for photobooth
  * adding unique filenames to exported .ply files
 
-![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
+#### controls
+* 'p' show or hide point cloud rendering
+* 'f' toggle fullscreen'
+* 'g' show or hide the gui palette
+* 's' save 3D file to disk
+
+
+![screenshot](screenshot-kinectphotobooth.png)
 
 
 /*
