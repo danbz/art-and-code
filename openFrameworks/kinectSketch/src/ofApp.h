@@ -28,14 +28,22 @@ class ofApp : public ofBaseApp{
    // int nearClip, farClip;
     ofxKinect kinect;
     
-    bool b_drawPointCloud, b_drawGui;
+    bool b_drawPointCloud, b_drawGui, b_saving;
     
     ofEasyCam cam;
     
+    // declare our GUI items
     ofxPanel gui;
     ofParameter<int> nearClip;
     ofParameter<int> farClip;
     
     ofMesh pointCloud;
     vector<int> pointIndex;
+    
+    float counter;
+    int countDown;
+    
+    ofSoundPlayer beep;
+    ofSoundPlayer click;
+    ofTrueTypeFont font;
 };

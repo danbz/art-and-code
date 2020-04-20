@@ -14,3 +14,9 @@ http://twitter.com/danb_zzo
  * recording and saving 3D data to files on disk
 
 
+
+
+/*
+    If you are struggling to get the device to connect ( especially Windows Users )
+    please look at the ReadMe: in addons/ofxKinect/README.md
+*/
