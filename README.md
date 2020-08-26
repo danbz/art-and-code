@@ -12,5 +12,8 @@ photobooth using kinect 1 sensor to record, colour, triangulate and save to disc
 ### kinect2 NI Particle Painter
 using kinect2 and the openNI natural interaction, skeletal tracking toolkit and a particle system to paint with your hands.
 
+### emoji test 
+example code in response to questions on the youtube channel, taking the ascii video transform example from the openframeworks creative technology toolkit series and making it work with emojis instead.  
+
 ![screenshot](openFrameworks/kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](openFrameworks/kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
