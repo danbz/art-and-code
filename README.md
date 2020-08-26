@@ -5,6 +5,9 @@ http://youtube.com/danbuzzo
 
 http://twitter.com/danb_zzo
 
+## coding for artists
+A super simple introduction to c++ ideas and concepts aimed at artists and designers. Short example code in individual files
+
 ## Using openFrameworks
 ### kinectPhotoBooth
 photobooth using kinect 1 sensor to record, colour, triangulate and save to disc 3D images
