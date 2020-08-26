@@ -2,24 +2,23 @@
 demo code from the youtube video tutorials and how-tos
 
 using openFrameworks C++ creative coding framework
- http://openframeworks.cc
+ http://openframeworks.cc 
 
-http://youtube.com/danbuzzo
+ http://youtube.com/danbuzzo
 
-http://twitter.com/danb_zzo
+ http://twitter.com/danb_zzo
 
- * using kinect depth sensors to capture RGB & depth data
- * constructing point clouds from depth data
- * colouring point clouds with RGB data and with HSB colour gradients
- * traingulating vertices with indices to form surfaced mesh
- * recording and saving 3D data to files on disk
- * adding sounds and onscreen countdown for photobooth
- * adding unique filenames to exported .ply files
+ ## Using openFrameworks
+
+### kinectPhotoBooth
+photobooth using kinect 1 sensor to record, colour, triangulate and save to disc 3D images
+
+### kinect2 NI Particle Painter
+using kinect2 and the openNI natural interaction, skeletal tracking toolkit and a particle system to paint with your hands.
+
+### emoji test 
+example code in response to questions on the youtube channel, taking the ascii video transform example from the openframeworks creative technology toolkit series and making it work with emojis instead.  
 
 ![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
-
-
-/*
-    If you are struggling to get the device to connect ( especially Windows Users )
-    please look at the ReadMe: in addons/ofxKinect/README.md
-*/
+![screenshot](kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
+![screenshot](emojiTest/screenshot-emojitest.png)
