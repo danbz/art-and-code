@@ -26,4 +26,4 @@ you will need some;
 • brown sugar (or whatever yoiu have)
 • jars or tupperware for storing our Kimchi
 
-![screenshot](Kimchi.jpg)
+![screenshot](kimchi.jpg)
