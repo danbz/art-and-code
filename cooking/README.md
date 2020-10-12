@@ -12,20 +12,18 @@ A super simple introduction to recipes and concepts aimed at artists and designe
 
 you will need some;
 
- carrots
- daikon / mooli white radish radish
- spring onions
- an onion
- ginger root
- napa / chinese leaves cabbage
- sesame seeds
- fish sauce
- garlic cloves
- chili pepper / dried chili flakes / Korean red pepper flakes (Gochujang)
- rice flour (or plain flour)
- brown sugar (or whatever yoiu have)
- jars or tupperware for storing our Kimchi
+• carrots
+• daikon / mooli white radish radish
+• spring onions
+• an onion
+• ginger root
+• napa / chinese leaves cabbage
+• sesame seeds
+• fish sauce
+• garlic cloves
+• chili pepper / dried chili flakes / Korean red pepper flakes (Gochujang)
+• rice flour (or plain flour)
+• brown sugar (or whatever yoiu have)
+• jars or tupperware for storing our Kimchi
 
 ![screenshot](Kimchi.jpg)
-
-
