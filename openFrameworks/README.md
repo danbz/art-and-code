@@ -19,6 +19,13 @@ using kinect2 and the openNI natural interaction, skeletal tracking toolkit and 
 ### emoji test 
 example code in response to questions on the youtube channel, taking the ascii video transform example from the openframeworks creative technology toolkit series and making it work with emojis instead.  
 
+### slitscan-example
+### slitscan
+
+two slitscan projects - slitscan example gives a simple overview with a splitsceen view, slitscan is a little more involved showing a different technique to 'push' a ribbon of scan from the centre of the screen to one side, keeping the other side of the screen running as normal video.
+
 ![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
 ![screenshot](emojiTest/screenshot-emojitest.png)
+![screenshot](slitscan-example/slitscan-example-screenshot.png)
+
