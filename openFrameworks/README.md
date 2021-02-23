@@ -24,6 +24,10 @@ example code in response to questions on the youtube channel, taking the ascii v
 
 two slitscan projects - slitscan example gives a simple overview with a splitsceen view, slitscan is a little more involved showing a different technique to 'push' a ribbon of scan from the centre of the screen to one side, keeping the other side of the screen running as normal video.
 
+### ofZachBlobs
+
+an example of using sine waves for generative animations based on an exmaple by Zch Lieberman 
+
 ![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
 ![screenshot](emojiTest/screenshot-emojitest.png)
