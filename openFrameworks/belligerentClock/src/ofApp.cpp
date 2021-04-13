@@ -25,20 +25,21 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    // this is the seconds loop
+    
     ofSetColor(255,0,0);
     string word = words[ ofRandom( words.size() ) ];
     for (int i = 0; i <360; i+=10){
         ofPushMatrix();
         ofTranslate(ofGetWidth()/2,ofGetHeight()/2);
-        ofRotateDeg( (ofGetSeconds() * 6)-90 );
+        ofRotateDeg( (ofGetSeconds() * 6) -90 );
         ofRotateDeg(i);
-       // font.drawString( "f*ck", 100, 0 );
-        font.drawString( word , 100, 0 );
-
-        ofSetColor(255, 255, 255, i-100);
+        font.drawString( "F*ck", 120, 0 );
+        // font.drawString( word , 120, 0 ); // to use a word from our list
+        ofSetColor(255, 255, 255, i - 100);
         ofPopMatrix();
-        
     }
+    // this is the minutes loop
     ofSetColor(0,255,0);
     for (int i = 0; i <360; i+=10){
         ofPushMatrix();
@@ -46,14 +47,15 @@ void ofApp::draw(){
         ofRotateDeg( (ofGetMinutes() * 6) - 90 );
         ofRotateDeg(i);
         if (ofGetMinutes()%2  == 0){
-            font.drawString("this", 280,0 );
+            font.drawString("this", 260,0 );
         } else {
-            font.drawString("that", 280,0 );
+            font.drawString("that", 260,0 );
         }
         
         ofSetColor(255, 255, 255, i -100);
         ofPopMatrix();
     }
+    // this is the minutes loop
     
     ofSetColor(0,0,255);
     for (int i = 0; i <360; i+=10){
