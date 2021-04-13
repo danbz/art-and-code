@@ -33,5 +33,7 @@ public:
     bool b_autoPlay;
     float tempo, currTime;
     int totalVoices;
-    
+    bool b_Gui;
+    ofSoundPlayer drums;
+
 };

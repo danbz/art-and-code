@@ -1,5 +1,6 @@
-# Generative Systems
-Generative Systems for Art and Design course materials
+# art and code 
+youube.com/danbuzzo
+Generative Systems for Art and Design 
  
 
  Eno-esque 'Music for Airports' loop sound samples created by
