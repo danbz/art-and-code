@@ -1,12 +1,4 @@
-# Generative_systems
-Generative Systems for Art and Design course materials
 
-
-## 2 Dice music - mozart and beyond
-
-* Techniques: stochastics, randomness and perlin noise, higher level stochastics, markov chains, probability and randomness - 
-
-RandomAudio
 
 recreating part of the sound of 'Music for Airports' by Brian Eno
 
