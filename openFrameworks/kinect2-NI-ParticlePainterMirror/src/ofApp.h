@@ -19,7 +19,7 @@ public:
     void update();
     void draw();
     ofVec3f location, direction, velocity;
-    int size;
+    float size;
     ofColor col;
     float speed;
 };
@@ -47,7 +47,9 @@ public:
     
     ofImage userMask;
     
-    ofxNI2::DepthStream depth;
+    // ofxNI2::DepthStream depth;
     ofxNI2::ColorStream color;
+    
+    ofFbo fbo;
 };
 
