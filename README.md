@@ -30,6 +30,6 @@ example code in response to questions on the youtube channel, taking the ascii v
 ![screenshot](openFrameworks/kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
 ![screenshot](openFrameworks/emojiTest/screenshot-emojitest.png)
 ![screenshot](openFrameworks/slitscan-example/slitscan-example-screenshot.png)
-![screenshot](openFrameworks/videSketch/screenshot.jpg)
+![screenshot](openFrameworks/videoSketch/screenshot.jpg)
 
 
