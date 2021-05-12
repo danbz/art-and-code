@@ -26,10 +26,16 @@ two slitscan projects - slitscan example gives a simple overview with a splitsce
 
 ### ofZachBlobs
 
-an example of using sine waves for generative animations based on an exmaple by Zch Lieberman 
+an example of using sine waves for generative animations based on an exmaple by Zach Lieberman 
+
+### 3D Box sketch
+
+using 3D primitives to make a generative, interactive 3D cloud 
 
 ![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
 ![screenshot](emojiTest/screenshot-emojitest.png)
 ![screenshot](slitscan-example/slitscan-example-screenshot.png)
+![screenshot](3DboxSketch/screenshot.png)
+
 
