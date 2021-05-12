@@ -31,5 +31,7 @@ example code in response to questions on the youtube channel, taking the ascii v
 ![screenshot](openFrameworks/emojiTest/screenshot-emojitest.png)
 ![screenshot](openFrameworks/slitscan-example/slitscan-example-screenshot.png)
 ![screenshot](openFrameworks/videoSketch/screenshot.jpg)
+![screenshot](openFrameworks/3DboxSketch/screenshot.png)
+
 
 
