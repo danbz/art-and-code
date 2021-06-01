@@ -1,10 +1,9 @@
 # Dan buzzo art and code
 
-http://uwecreativetechnology.com
-
-Dan Buzzo, October 2021
+Dan Buzzo, May 2021
 
 https://github.com/danbz
+https://youtube.com/danbuzzo
 
 https://buzzo.com
 
@@ -27,9 +26,7 @@ Simple example to
 • Right-key Left-key: increase/decrease amplitude of Perlin Noise distortion 
 • click and drag in window to move camera
 
-included is a compiled binary for OSX
 
 ![screenshot](mesh-example-screenshot.png)
-
 ![screenshot](mesh-example-screenshot2.png)
 ![screenshot](screenshot.png)
