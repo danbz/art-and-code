@@ -32,10 +32,17 @@ an example of using sine waves for generative animations based on an exmaple by 
 
 using 3D primitives to make a generative, interactive 3D cloud 
 
+### mesh Example
+
+making an ofMesh object and constructing a mesh from scratch
+distotring and animating the mesh live with random noise and perlin noise using ofNoise() function
+
 ![screenshot](kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
 ![screenshot](emojiTest/screenshot-emojitest.png)
 ![screenshot](slitscan-example/slitscan-example-screenshot.png)
 ![screenshot](3DboxSketch/screenshot.png)
+![screenshot](meshExample/screenshot.png)
+
 
 
