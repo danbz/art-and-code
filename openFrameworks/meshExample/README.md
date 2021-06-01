@@ -1,25 +1,14 @@
-# UWE Bristol Creative Technology Toolkit sessions
-
-https://github.com/uwe-creative-technology/CT_toolkit_sessions
-
-
-example code for the Creative Technology Toolkit module on Creative Technology MSc at UWE Bristol
-
-video walk throughs of all code examples here can be found on YouTube at
-
-https://www.youtube.com/playlist?list=PL6QF0yo3Zj7ALxV4MyOJ9oSFsV-Mo39R2
-
-
+# Dan buzzo art and code
 
 http://uwecreativetechnology.com
 
-Dan Buzzo, October 2019
+Dan Buzzo, October 2021
 
 https://github.com/danbz
 
 https://buzzo.com
 
-#Mesh, noise and perlin noise Example
+#Mesh, noise and perlin noise Example with animation and color
 
 Simple example to
 • generate an openFrameworks (openframeworks.cc) mesh object
@@ -43,3 +32,4 @@ included is a compiled binary for OSX
 ![screenshot](mesh-example-screenshot.png)
 
 ![screenshot](mesh-example-screenshot2.png)
+![screenshot](screenshot.png)
