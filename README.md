@@ -3,6 +3,9 @@ Demo code from youtube video tutorials and how-tos
 
 http://youtube.com/danbuzzo
 
+@danbz@mastodon.social
+
+
 http://twitter.com/danb_zzo
 
 ## coding for artists
