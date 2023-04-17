@@ -88,6 +88,7 @@ void ofApp::draw(){
         ofDrawRectangle(100,-barWidth/2, val[i] * length, barWidth/2);
         ofPopMatrix();
     }
+    
 }
 
 //--------------------------------------------------------------

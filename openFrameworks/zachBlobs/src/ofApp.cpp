@@ -40,8 +40,8 @@ void ofApp::draw(){
             // ofDrawCircle( ofGetWidth()/2 , i, 100 );
             // ofDrawCircle( ofGetWidth()/2 + 100 * sin( i * 0.01 + time ), i , 50 +  40 * sin( i * 0.005 + time  ) ) ;
             
-             ofDrawCircle( 50 * x + 100 * sin( i * 0.01 + time + x), 50 + i , 50 +  40 * sin( i * 0.005 + time + x) ) ;
-            // ofDrawSphere(50 * x + 100 * sin( i * 0.01 + time + x), 50 * x + 100 * sin( i * 0.01 + time + x), 50 + i , 50 +  40 * sin( i * 0.005 + time + x) ) ; // draw spheres in 3D
+            // ofDrawCircle( 50 * x + 100 * sin( i * 0.01 + time + x), 50 + i , 50 +  40 * sin( i * 0.005 + time + x) ) ;
+             ofDrawSphere(50 * x + 100 * sin( i * 0.01 + time + x), 50 * x + 100 * sin( i * 0.01 + time + x), 50 + i , 50 +  40 * sin( i * 0.005 + time + x) ) ; // draw spheres in 3D
         }
     }
 }

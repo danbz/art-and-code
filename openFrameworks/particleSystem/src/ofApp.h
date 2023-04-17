@@ -18,8 +18,7 @@ public:
     // with each object containing an x and y position, and a vector direction as vx and vy and a size
     ofColor color;
     float size;
-    glm::vec2 force, position, direction;
-    
+    glm::vec3 force, position, direction;
     
     // we also define two methods that the particle object understands
     void update();
@@ -27,7 +26,7 @@ public:
     
     // and define a particle contructor and a destructor (the destructor is denoted by the tilde (~) character prefix
     // the contructor is expecting to be passed an initial x and y co-ordinate for the new particle
-    particle(int x, int y, int hue);
+    particle(int x, int y, int z, int hue);
     ~particle();
 };
 
@@ -49,4 +48,7 @@ class ofApp : public ofBaseApp{
     // define a vector containing our new particle class objects
     vector<particle> particles;
     int hue;
+    ofEasyCam cam;
+    ofLight light;
+    int maxParticles;
 };

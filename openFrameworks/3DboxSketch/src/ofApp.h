@@ -21,10 +21,14 @@ class ofApp : public ofBaseApp{
 
 		void keyPressed(int key);
 		void keyReleased(int key);
-
+    void makeABox();
+    
     vector<ofBoxPrimitive> boxes;
+    vector<ofSpherePrimitive> spheres;
+
     ofEasyCam cam;
     ofLight light;
     int spaceRange ;
+    ofImage eye;
 
 };
