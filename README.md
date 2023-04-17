@@ -3,6 +3,9 @@ Demo code from youtube video tutorials and how-tos
 
 http://youtube.com/danbuzzo
 
+@danbz@mastodon.social
+
+
 http://twitter.com/danb_zzo
 
 ## coding for artists
@@ -30,6 +33,7 @@ example code in response to questions on the youtube channel, taking the ascii v
 
 ### 3D mesh gerenation and animation and distortion with random noise and perlin noise
 
+### generative drawing with Catmull Rom Curves
 
 ![screenshot](openFrameworks/kinectPhotoBooth/screenshot-kinectphotobooth.png)
 ![screenshot](openFrameworks/kinect2-NI-ParticlePainter/screenshot-kinect2-particle-painter.png)
